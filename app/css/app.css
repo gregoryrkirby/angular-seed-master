@@ -1,0 +1,19 @@
+/* app css stylesheet */
+
+.votingWidget {
+    height: 64px;
+    padding: 7px;
+}
+
+.votingButton {
+    padding-left: 6px;
+    cursor: pointer;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
+.blue {
+    color: blue;
+}
